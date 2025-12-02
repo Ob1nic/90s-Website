@@ -197,6 +197,14 @@ body{
     border-bottom: solid #680000;
 }
 
+.booklist{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    background-color: white;
+    color: black;
+}
+
 
 .d_note1{
     display: flex;
